@@ -1,3 +1,3 @@
-# facial_recognition
+# Facial Recognition
 
 ok edit is now done.
